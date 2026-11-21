@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+.tools
+*.log
+server/data/db.json
+server/uploads/*
+!server/uploads/.gitkeep
